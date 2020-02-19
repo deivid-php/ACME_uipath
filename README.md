@@ -29,5 +29,5 @@ Populate the Process.xaml file with the following actions: Navigation, Searching
 Important Note: Don't use external file references outside of the project folder (including Orchestrator Assets). Place all the used files within the project folder, zip that folder and upload it to the UiPath Certification Platform.
 
 Zip ALL the used workflow files AND the output Excel file. Then upload the .zip file to the UiPath Certification Platform.
-
+ 
 Good luck!
